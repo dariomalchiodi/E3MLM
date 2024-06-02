@@ -4,5 +4,7 @@ nbformat==5.10.4
 notebook==7.2.0
 numpy==1.26.4
 plotly==5.22.0
+keras==keras-3.3.3
 scikit-learn==1.5.0
 seaborn==0.13.2
+tensorflow==2.16.1
