@@ -1,0 +1,24 @@
+axes.labelpad: 1
+axes.labelsize: 6
+axes.spines.top: False
+axes.spines.right: False
+
+xaxis.labellocation: right
+yaxis.labellocation: top
+
+legend.fontsize: 6
+
+lines.markersize: 4
+
+figure.figsize: 4, 2.5
+figure.dpi: 150
+savefig.dpi: 200
+
+mathtext.fontset: stix
+mathtext.rm: stix
+mathtext.it: stix
+
+text.usetex: False
+
+xtick.labelsize: 6
+ytick.labelsize: 6
